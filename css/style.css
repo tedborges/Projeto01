@@ -32,6 +32,11 @@ html,body{
 }
 
 .header img{
+	position: absolute;
+	top: -25px;
+	left: 250px;
+	width: 100px;
+	height: 80px;
 	margin: 15px;
 }
 
